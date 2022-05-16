@@ -2,9 +2,13 @@ body {
   margin: 0;
   background-color: darkgray;
 }
-.slide
+.side
 {
   background-color: red;
   width: 20%;
   height: 900px;
+}
+.info
+{
+  color: black;
 }
